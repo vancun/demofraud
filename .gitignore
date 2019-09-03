@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+__pycache__
+flags/__*__
+data/mongo
+data/out
+data/model
+spark-warehouse
