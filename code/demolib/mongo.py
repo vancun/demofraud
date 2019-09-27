@@ -1,5 +1,5 @@
 
-from . import cfg, spark
+from . import cfg
 
 def mongo_read(collection, uri=None, database=None):
     """Create DataFrame from MongoDB collection.
